@@ -30,7 +30,7 @@ router.post("/register", async (req, res) => {
       email: savedUser.email,
     });
   } catch (err) {
-    res.statusCode(400).send(err);
+    res.status(400).send(err);
   }
 });
 
