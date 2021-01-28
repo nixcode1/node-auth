@@ -1,2 +1,2 @@
 # node-auth
-A test application for different authentication method in nodejs/Expressjs
+A test application for different authentication methods in nodejs/Expressjs
